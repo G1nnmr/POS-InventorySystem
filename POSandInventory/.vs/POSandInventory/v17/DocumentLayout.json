@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|d:\\software design\\sd_proj\\sd_proj\\posandinventory\\posandinventory\\usercontrol\\acc_manage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:posandinventory\\usercontrol\\acc_manage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\posandinventory\\usercontrol\\acc_manage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:posandinventory\\usercontrol\\acc_manage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\posandinventory\\usercontrol\\prov.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:posandinventory\\usercontrol\\prov.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\posandinventory\\usercontrol\\privacy.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:posandinventory\\usercontrol\\privacy.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Inventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:POSandInventory\\Inventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\posandinventory\\usercontrol\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:posandinventory\\usercontrol\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\POS.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:POSandInventory\\POS.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:POSandInventory\\Login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:POSandInventory\\Register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\posandinventory\\usercontrol\\prod_manage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:posandinventory\\usercontrol\\prod_manage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\posandinventory\\inventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:posandinventory\\inventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:POSandInventory\\Login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\SplashScreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:POSandInventory\\SplashScreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\dbConnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:POSandInventory\\dbConnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{91A5EDE5-FEA4-472E-8E79-0B6736C218F3}|POSandInventory\\POSandInventory.vbproj|solutionrelative:POSandInventory\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 153,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventory.vb [Design]",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Inventory.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\Inventory.vb",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Inventory.vb [Design]",
+              "RelativeToolTip": "POSandInventory\\Inventory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T01:13:25.457Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.vb [Design]",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\UserControl\\Dashboard.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\UserControl\\Dashboard.vb",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\UserControl\\Dashboard.vb [Design]",
+              "RelativeToolTip": "POSandInventory\\UserControl\\Dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-16T06:06:03.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.vb [Design]",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\UserControl\\Privacy.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\UserControl\\Privacy.vb",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\UserControl\\Privacy.vb [Design]",
+              "RelativeToolTip": "POSandInventory\\UserControl\\Privacy.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-16T06:05:46.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prov.vb [Design]",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\UserControl\\Prov.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\UserControl\\Prov.vb",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\UserControl\\Prov.vb [Design]",
+              "RelativeToolTip": "POSandInventory\\UserControl\\Prov.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-16T06:00:51.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Prod_Manage.vb [Design]",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\UserControl\\Prod_Manage.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\UserControl\\Prod_Manage.vb",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\UserControl\\Prod_Manage.vb [Design]",
+              "RelativeToolTip": "POSandInventory\\UserControl\\Prod_Manage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-16T05:48:40.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Acc_Manage.vb",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\UserControl\\Acc_Manage.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\UserControl\\Acc_Manage.vb",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\UserControl\\Acc_Manage.vb",
+              "RelativeToolTip": "POSandInventory\\UserControl\\Acc_Manage.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-15T04:48:01.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Acc_Manage.vb [Design]",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\UserControl\\Acc_Manage.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\UserControl\\Acc_Manage.vb",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\UserControl\\Acc_Manage.vb [Design]",
+              "RelativeToolTip": "POSandInventory\\UserControl\\Acc_Manage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-15T04:27:11.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbConnection.vb",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\dbConnection.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\dbConnection.vb",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\dbConnection.vb",
+              "RelativeToolTip": "POSandInventory\\dbConnection.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T00:55:28.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inventory.vb",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Inventory.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\Inventory.vb",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Inventory.vb",
+              "RelativeToolTip": "POSandInventory\\Inventory.vb",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T01:18:47.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.vb [Design]",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Register.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\Register.vb",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Register.vb [Design]",
+              "RelativeToolTip": "POSandInventory\\Register.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T01:43:07.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\packages.config",
+              "RelativeDocumentMoniker": "POSandInventory\\packages.config",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\packages.config",
+              "RelativeToolTip": "POSandInventory\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-08T01:32:10.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SplashScreen.vb [Design]",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\SplashScreen.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\SplashScreen.vb",
+              "ToolTip": "D:\\POSandInventory\\POSandInventory\\SplashScreen.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\POSandInventory\\POSandInventory\\SplashScreen.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T01:32:02.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "POS.vb [Design]",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\POS.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\POS.vb",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\POS.vb [Design]",
+              "RelativeToolTip": "POSandInventory\\POS.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T01:13:12.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.vb",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Login.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\Login.vb",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Login.vb",
+              "RelativeToolTip": "POSandInventory\\Login.vb",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T00:53:31.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Login.vb",
+              "RelativeDocumentMoniker": "POSandInventory\\Login.vb",
+              "ToolTip": "D:\\Software Design\\SD_Proj\\SD_Proj\\POSandInventory\\POSandInventory\\Login.vb [Design]",
+              "RelativeToolTip": "POSandInventory\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T00:46:11.043Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

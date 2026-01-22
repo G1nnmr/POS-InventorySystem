@@ -1,0 +1,535 @@
+D:\VsProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.AssemblyReference.cache
+D:\VsProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Resources.resources
+D:\VsProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.GenerateResource.cache
+D:\VsProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CoreCompileInputs.cache
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe.config
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.pdb
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\Guna.UI2.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\MySql.Data.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.Buffers.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.Memory.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\ZstdSharp.dll
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.pdb
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\MySql.Data.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.Buffers.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.Memory.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VsProj\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VsProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Login.resources
+D:\VsProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CopyComplete
+D:\VsProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.exe
+D:\VsProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.xml
+D:\VsProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.pdb
+D:\VsProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Register.resources
+D:\VsProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Inventory.resources
+E:\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe.config
+E:\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe
+E:\POSandInventory\POSandInventory\bin\Debug\POSandInventory.pdb
+E:\POSandInventory\POSandInventory\bin\Debug\POSandInventory.xml
+E:\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.dll
+E:\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.dll
+E:\POSandInventory\POSandInventory\bin\Debug\Guna.UI2.dll
+E:\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.dll
+E:\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.dll
+E:\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\POSandInventory\POSandInventory\bin\Debug\MySql.Data.dll
+E:\POSandInventory\POSandInventory\bin\Debug\System.Buffers.dll
+E:\POSandInventory\POSandInventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.dll
+E:\POSandInventory\POSandInventory\bin\Debug\System.Memory.dll
+E:\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.dll
+E:\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\POSandInventory\POSandInventory\bin\Debug\ZstdSharp.dll
+E:\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.xml
+E:\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.pdb
+E:\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.xml
+E:\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.xml
+E:\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.xml
+E:\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\POSandInventory\POSandInventory\bin\Debug\MySql.Data.xml
+E:\POSandInventory\POSandInventory\bin\Debug\System.Buffers.xml
+E:\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.xml
+E:\POSandInventory\POSandInventory\bin\Debug\System.Memory.xml
+E:\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.xml
+E:\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.AssemblyReference.cache
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Inventory.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Login.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Resources.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Register.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.GenerateResource.cache
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CoreCompileInputs.cache
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.exe
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.xml
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.pdb
+D:\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe.config
+D:\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe
+D:\POSandInventory\POSandInventory\bin\Debug\POSandInventory.pdb
+D:\POSandInventory\POSandInventory\bin\Debug\POSandInventory.xml
+D:\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.dll
+D:\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.dll
+D:\POSandInventory\POSandInventory\bin\Debug\Guna.UI2.dll
+D:\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.dll
+D:\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.dll
+D:\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\POSandInventory\POSandInventory\bin\Debug\MySql.Data.dll
+D:\POSandInventory\POSandInventory\bin\Debug\System.Buffers.dll
+D:\POSandInventory\POSandInventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.dll
+D:\POSandInventory\POSandInventory\bin\Debug\System.Memory.dll
+D:\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.dll
+D:\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\POSandInventory\POSandInventory\bin\Debug\ZstdSharp.dll
+D:\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.xml
+D:\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.pdb
+D:\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.xml
+D:\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.xml
+D:\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.xml
+D:\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\POSandInventory\POSandInventory\bin\Debug\MySql.Data.xml
+D:\POSandInventory\POSandInventory\bin\Debug\System.Buffers.xml
+D:\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.xml
+D:\POSandInventory\POSandInventory\bin\Debug\System.Memory.xml
+D:\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.xml
+D:\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.AssemblyReference.cache
+D:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Inventory.resources
+D:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Login.resources
+D:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Resources.resources
+D:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.POS.resources
+D:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Register.resources
+D:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.SplashScreen.resources
+D:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.GenerateResource.cache
+D:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CoreCompileInputs.cache
+D:\POSandInventory\POSandInventory\obj\Debug\POSandIn.F64DF42F.Up2Date
+D:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.exe
+D:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.xml
+D:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.pdb
+D:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.ManageAccounts.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.ManageAccounts.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.POS.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.SplashScreen.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Acc_Add.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Acc_Manage.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Dashboard.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_Manage.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_View.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Stock_In.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Stock_Out.resources
+E:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CopyComplete
+F:\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe.config
+F:\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe
+F:\POSandInventory\POSandInventory\bin\Debug\POSandInventory.pdb
+F:\POSandInventory\POSandInventory\bin\Debug\POSandInventory.xml
+F:\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.dll
+F:\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.dll
+F:\POSandInventory\POSandInventory\bin\Debug\Guna.UI2.dll
+F:\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.dll
+F:\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.dll
+F:\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\POSandInventory\POSandInventory\bin\Debug\MySql.Data.dll
+F:\POSandInventory\POSandInventory\bin\Debug\System.Buffers.dll
+F:\POSandInventory\POSandInventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.dll
+F:\POSandInventory\POSandInventory\bin\Debug\System.Memory.dll
+F:\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.dll
+F:\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\POSandInventory\POSandInventory\bin\Debug\ZstdSharp.dll
+F:\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.xml
+F:\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.pdb
+F:\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.xml
+F:\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.xml
+F:\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.xml
+F:\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\POSandInventory\POSandInventory\bin\Debug\MySql.Data.xml
+F:\POSandInventory\POSandInventory\bin\Debug\System.Buffers.xml
+F:\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.xml
+F:\POSandInventory\POSandInventory\bin\Debug\System.Memory.xml
+F:\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.xml
+F:\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.AssemblyReference.cache
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Inventory.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Login.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Category.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Resources.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.POS.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Register.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.SplashScreen.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Acc_Add.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Acc_Manage.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Dashboard.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_Manage.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_View.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Stock_In.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Stock_Out.resources
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.GenerateResource.cache
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CoreCompileInputs.cache
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CopyComplete
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.exe
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.xml
+F:\POSandInventory\POSandInventory\obj\Debug\POSandInventory.pdb
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe.config
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.pdb
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\Guna.UI.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\Guna.UI2.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\MySql.Data.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Buffers.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Memory.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\ZstdSharp.dll
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.pdb
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\MySql.Data.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Buffers.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Memory.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.AssemblyReference.cache
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Inventory.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Login.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Category.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Resources.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.POS.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Register.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.SplashScreen.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Acc_Add.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Acc_Manage.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Dashboard.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_Manage.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_View.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Stock_In.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Stock_Out.resources
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.GenerateResource.cache
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CoreCompileInputs.cache
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandIn.F64DF42F.Up2Date
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.exe
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.xml
+C:\Users\Errvyne\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.pdb
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe.config
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.pdb
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\ZstdSharp.dll
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.pdb
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Inventory.resources
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Login.resources
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Category.resources
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Resources.resources
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.POS.resources
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Register.resources
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.SplashScreen.resources
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Acc_Manage.resources
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_Manage.resources
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_View.resources
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Stock_In.resources
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Stock_Out.resources
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CopyComplete
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.exe
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.xml
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.pdb
+C:\Users\ASUS\Downloads\SD_Proj\SD_Proj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Privacy.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.AssemblyReference.cache
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.DiscountUpdate.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.ManageProfile.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Inventory.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Login.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Category.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Resources.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.POS_Cashier.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.SplashScreen.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Acc_Manage.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Overview.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_ListofItems.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Profile.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_Manage.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Transactions.resources
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.GenerateResource.cache
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CoreCompileInputs.cache
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe.config
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\POSandInventory.pdb
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\POSandInventory.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\DomainLayer.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\Guna.UI2.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\InsfrastructureLayer.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\MySql.Data.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\ServiceLayer.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.Buffers.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.Memory.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\ZstdSharp.dll
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\DomainLayer.pdb
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\DomainLayer.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\InsfrastructureLayer.pdb
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\InsfrastructureLayer.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\ServiceLayer.pdb
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\ServiceLayer.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.pdb
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\MySql.Data.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.Buffers.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.Memory.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CopyComplete
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.exe
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.xml
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.pdb
+E:\SD\SD_Proj Ver 1.1\POSandInventory\POSandInventory\obj\Debug\POSandInventory.AddQuantity.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe.config
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe.manifest
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.application
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.pdb
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\DomainLayer.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\Guna.UI2.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\InsfrastructureLayer.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\MySql.Data.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\ServiceLayer.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Buffers.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Memory.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\ZstdSharp.dll
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\DomainLayer.pdb
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\DomainLayer.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\InsfrastructureLayer.pdb
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\InsfrastructureLayer.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\ServiceLayer.pdb
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\ServiceLayer.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.pdb
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\MySql.Data.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Buffers.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Memory.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.AssemblyReference.cache
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.DiscountUpdate.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.ManageProfile.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Inventory.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Login.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.AddQuantity.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Category.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Resources.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.POS_Cashier.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.SplashScreen.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Acc_Manage.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Overview.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_ListofItems.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Profile.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_Manage.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Transactions.resources
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.GenerateResource.cache
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CoreCompileInputs.cache
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.exe.manifest
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.application
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CopyComplete
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.exe
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.xml
+E:\SD\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.pdb
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe.config
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe.manifest
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.application
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.exe
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.pdb
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\POSandInventory.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\DomainLayer.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\Guna.UI2.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\InsfrastructureLayer.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\MySql.Data.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\ServiceLayer.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Buffers.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Memory.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\ZstdSharp.dll
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\DomainLayer.pdb
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\DomainLayer.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\InsfrastructureLayer.pdb
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\InsfrastructureLayer.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\ServiceLayer.pdb
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\ServiceLayer.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\BouncyCastle.Cryptography.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.pdb
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\Google.Protobuf.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\K4os.Hash.xxHash.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\MySql.Data.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Buffers.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.IO.Pipelines.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Memory.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Numerics.Vectors.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.AssemblyReference.cache
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.DiscountUpdate.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.ManageProfile.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Inventory.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Login.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.AddQuantity.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Category.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Resources.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.POS_Cashier.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.SplashScreen.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Acc_Manage.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Overview.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_ListofItems.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Profile.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Prod_Manage.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.Transactions.resources
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.GenerateResource.cache
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CoreCompileInputs.cache
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.exe.manifest
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.application
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.vbproj.CopyComplete
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.exe
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.xml
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.pdb
+E:\SD\FinalProject_VAS\SD_FinalProj\POSandInventory\POSandInventory\obj\Debug\POSandInventory.TransDetails.resources
